@@ -1,0 +1,10 @@
+.btn-block {
+    display: block;
+    width: auto;
+    margin: 0 auto !important;
+}
+
+button.btn.btn-info.btn-block.mb-4.mt-4.waves-effect.waves-light {
+    font-size: 18px;
+    font-weight: bold;
+}
